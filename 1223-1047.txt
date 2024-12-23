@@ -26,6 +26,8 @@ http://gslbservzqhsw.itv.cmvideo.cn/1000000001000014176/1.m3u8?channel-id=ystenl
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="常用",广东卫视
 http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265034/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="南方卫视" tvg-name="南方卫视" group-title="常用",南方卫视
+http://183.63.15.42:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-id="南方卫视" tvg-name="南方卫视" group-title="常用",南方卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8
 #EXTINF:-1 tvg-id="南方卫视" tvg-name="南方卫视" group-title="常用",南方卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
