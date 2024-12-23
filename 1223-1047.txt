@@ -617,8 +617,12 @@ http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001096/1.m3u8?channel-id=ystenl
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视",重庆卫视
 http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265017/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=3
 
-
-
+#EXTINF:-1 group-title="体育频道",广东体育
+http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="体育频道",广东体育
+http://14.212.185.71:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="体育频道",广东体育
+http://171.110.42.2:8181/tsfile/live/1026_1.m3u8
 #EXTINF:-1 group-title="体育频道",广东体育
 http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 #EXTINF:-1 group-title="体育频道",广东体育
